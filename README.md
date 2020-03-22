@@ -1,1 +1,3 @@
-# data_science_interview_questions
+## Data Science Interview Questions
+
+This repository includes questions you may encounter during interviews for a data scientist role and their solutions. Feel free to email data.intelligence.mastery@gmail.com if you have any questions.Happy coding!
