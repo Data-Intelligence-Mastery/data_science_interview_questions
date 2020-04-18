@@ -1,4 +1,4 @@
-## 1. Bias and variance (adapted from here[http://scott.fortmann-roe.com/docs/BiasVariance.html])
+## 1. Bias and variance (adapted from [here](http://scott.fortmann-roe.com/docs/BiasVariance.html))
 
 Understanding how different sources of error lead to bias and variance helps us improve the data fitting process resulting in more accurate models. We define bias and variance in three ways: conceptually, graphically and mathematically.
 
