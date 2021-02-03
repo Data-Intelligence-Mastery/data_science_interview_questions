@@ -8,3 +8,9 @@ It will sharpen your coding skills and keep you fresh with data science concepts
 
 [Full markdowns](https://colab.research.google.com/notebooks/markdown_guide.ipynb#scrollTo=70pYkR9LiOV0)
 Add a link to a text is to enclose the text with [] followed by () with link in it. Example: [text] (link) with no space between brackets.
+
+
+KDNuggets
+
+https://www.kdnuggets.com/2021/01/popular-machine-learning-interview-questions.html
+https://www.kdnuggets.com/2021/01/popular-machine-learning-interview-questions-part2.html
